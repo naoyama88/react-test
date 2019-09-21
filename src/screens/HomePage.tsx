@@ -19,9 +19,9 @@ const HomePage: React.FC = () => {
       <h1>Welcome to My Great App!</h1>
       <p>
         Hi! Hi! Hi!
-        My name is Ginpei Takanashi.
+        My name is Marcus Naoya Araki.
         I write JavaScript.
-        I make JapaneseSushi.
+        I make Fun.
       </p>
       <p>
         →
@@ -32,7 +32,7 @@ const HomePage: React.FC = () => {
       <AsideImageOuter>
         <img
           alt="Sushi on white plate."
-          src="https://ginpei.info/static/images/makingSushi.jpg"
+          src="https://image.shutterstock.com/image-photo/funny-portrait-hero-260nw-410898763.jpg"
         />
       </AsideImageOuter>
       <p>Maxime similique officiis temporibus quasi eaque minus, quibusdam aspernatur repellat numquam nesciunt cumque ut fugiat inventore suscipit id molestias voluptate delectus ullam reiciendis quas quaerat magnam quos voluptates. Doloribus, eaque.</p>
