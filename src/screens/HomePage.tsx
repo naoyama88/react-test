@@ -18,7 +18,7 @@ const HomePage: React.FC = () => {
     <DefaultLayout className="HomePage">
       <h1>Welcome to My Great App!</h1>
       <p>
-        Hi!
+        Hi! Hi!
         My name is Ginpei Takanashi.
         I write JavaScript.
         I make JapaneseSushi.
