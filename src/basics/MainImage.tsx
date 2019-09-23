@@ -12,7 +12,7 @@ const MainImageOuter = styled.div`
 `;
 
 const MainImage: React.FC = () => {
-  const src = `${process.env.PUBLIC_URL}/ginpei-1200.png`;
+  const src = 'https://image.shutterstock.com/image-photo/funny-portrait-hero-260nw-410898763.jpg';
   return (
     <MainImageOuter className="MainImage">
       <img src={src} alt=""/>
